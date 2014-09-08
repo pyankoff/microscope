@@ -8,3 +8,5 @@ bootstrap
 iron:router
 mrt:accounts-ui-bootstrap-dropdown
 accounts-password
+mrt:iron-router-progress
+
